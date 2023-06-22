@@ -25,9 +25,9 @@
   "homepage": "https://github.com/brave/extension-whitelist#readme",
   "dependencies": {
     "hashset-cpp": "^2.2.1",
-    "node-gyp": "^5.0.3"
+    "node-gyp": "^9.4.0"
   },
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
